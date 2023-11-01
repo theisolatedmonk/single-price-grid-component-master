@@ -26,7 +26,7 @@ export default function Home () {
           <p className='   text-LightGray'>
             Full access for less than $1 a day
           </p>
-          <button className='w-full p-3 mt-2 shadow-lg bg-BrightYellow rounded-md  font-semibold'>
+          <button className='w-full p-3 mt-2 shadow-lg bg-BrightYellow hover:bg-opacity-50 rounded-md  font-semibold'>
             Sign Up
           </button>
         </div>
